@@ -3,7 +3,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aryansingla45&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansingla45&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rajatbansal01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansingla45&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 
 - 🌱 I’m currently learning **Generative AI and Large Language Models**.
