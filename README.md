@@ -1,13 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Aryan Singla</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=aryansingla45&theme=dark&show_icons=true&cache=none)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansingla45&layout=compact&text_color=daf7dc&bg_color=151515&cache=none)](https://github.com/aryansingla45/github-readme-stats)
-
-
-
-
 - 🌱 I’m currently learning **Generative AI and Large Language Models**.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 💬 Ask me about **Machine Learning**
@@ -70,6 +63,10 @@
   </a>
 </p>
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=aryansingla45&theme=dark&show_icons=true&cache=none)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansingla45&layout=compact&text_color=daf7dc&bg_color=151515&cache=none)](https://github.com/aryansingla45/github-readme-stats)
 
 
 
