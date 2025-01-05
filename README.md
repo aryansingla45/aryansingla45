@@ -60,6 +60,7 @@
   </a> -->
   <a href="https://seaborn.pydata.org/" target="_blank"> 
     <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" width="200" height="40"/>
+    
   </a>
 </p>
 
